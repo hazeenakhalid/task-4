@@ -4,7 +4,7 @@ This repository contains two simple programs (one in Rust and one in PHP) that p
 
 ## Contents
 
-- `taskfour`: Rust project that prints a greeting with the current time.
+- `task-4`: Rust project that prints a greeting with the current time.
 - `task4.php`: PHP file that prints a greeting with the current time.
 
 ## Rust Program
