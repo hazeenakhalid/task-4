@@ -22,7 +22,7 @@ Hello Hazeena khalid, right now the time is <current time>
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/hazeenakhalid/task4.git
+    git clone https://github.com/hazeenakhalid/task-4.git
     cd Task4/main
     ```
 
